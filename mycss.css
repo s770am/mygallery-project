@@ -1,0 +1,59 @@
+h1{
+    background-color: black;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+h1 a {
+    color: white;
+    text-decoration: none;
+
+}
+ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+strong {
+    text-decoration: underline solid red;
+}
+
+footer {
+    background-color: black;
+    
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+.nav-bar {
+    list-style: none;
+    display: inline;
+    background-color: gray;
+}
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+}
+
+.picture_box {
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+}
+.pic_link {
+    background-color:  peachpuff;
+    text-align: center;
+    margin: 0px;
+ 
+}
+
+#top-p {
+    background-color: blue;
+    font-size: xx-large;
+
+}
+
+
